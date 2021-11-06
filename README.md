@@ -12,5 +12,5 @@ Repositório para projetos realizados durante o curso Data Expert da DNC Group.
 * Link com [Especificação](https://github.com/vhmgomide/Projetos-DEX/blob/main/Assignment%2018%20-%20Portf%C3%B3lio%20Individual%20ML%20Classifica%C3%A7%C3%A3o.pdf)
 * Fonte de Dados - Arquivos .csv enviados
 * Solução
-  * [Link para download do Notebook]()
-  * [Link do Coolab]()
+  * [Link para download do Notebook](https://github.com/vhmgomide/Projetos-DEX/blob/main/Sistema_de_Recomenda%C3%A7%C3%A3o_RazzleDazzle.ipynb)
+  * [Link do Coolab](https://colab.research.google.com/drive/1-Uuwx1PVptnv0nhHGkO71rP6kwYb-1BQ?usp=sharing)
