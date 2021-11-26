@@ -14,3 +14,10 @@ Repositório para projetos realizados durante o curso Data Expert da DNC Group.
 * Solução
   * [Link para download do Notebook](https://github.com/vhmgomide/Projetos-DEX/blob/main/Projeto_002_RazzleDazzle/Sistema_de_Recomenda%C3%A7%C3%A3o_RazzleDazzle.ipynb)
   * [Link do Coolab](https://colab.research.google.com/drive/1-Uuwx1PVptnv0nhHGkO71rP6kwYb-1BQ?usp=sharing)
+
+## Machine Learning - Clusterização e Regressão - Análise de Crédito (Em desenvovlvimento)
+* Link com [Especificação](https://github.com/vhmgomide/Projetos-DEX/blob/main/Projeto_002_RazzleDazzle/%5BDEX%5D%20DAY%207%20-%20Especifica%C3%A7%C3%A3o.pptx)
+* Fonte de Dados - [Kaggle](https://www.kaggle.com/arjunbhasin2013/ccdata)
+* Solução
+  * [Link para download do Notebook]()
+  * [Link do Coolab]()
